@@ -13,4 +13,4 @@ npm install
 npm start
 ```
 ## Example
-![](https://github.com/SharpTH/crop-image-before-uploading/blob/main/src/images/crop-image-before-uploading.gif)
+![](https://github.com/SharpTH/Coding-Class/blob/main/app.png)
