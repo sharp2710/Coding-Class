@@ -13,6 +13,6 @@ npm start
 # Example
 view. [https://sharp-witted.com/](https://sharp-witted.com/)
 #### Download
-download. [download](https://sharp-witted.com/download/)
+download. [](https://sharp-witted.com/download/)
 
 ![](https://github.com/SharpTH/Coding-Class/blob/main/app.png)
