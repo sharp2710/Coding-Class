@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 # Example
-link. [https://sharp-witted.com/](https://sharp-witted.com/)
+view. [https://sharp-witted.com/](https://sharp-witted.com/)
 #### Download
 download. [download](https://sharp-witted.com/download/)
 
