@@ -10,9 +10,9 @@ cd Coding-Class
 npm install
 npm start
 ```
-## Example
+# Example
 link. [https://sharp-witted.com/](https://sharp-witted.com/)
-# Download
+#### Download
 download. [download](https://sharp-witted.com/download/)
 
 ![](https://github.com/SharpTH/Coding-Class/blob/main/app.png)
