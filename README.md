@@ -12,6 +12,6 @@ npm start
 ```
 ## Example
 ```
-(https://sharp-witted.com/)
+eg. [click here](https://sharp-witted.com/)
 ```
 ![](https://github.com/SharpTH/Coding-Class/blob/main/app.png)
