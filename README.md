@@ -11,6 +11,6 @@ npm install
 npm start
 ```
 ## Example
-eg. [click here](https://sharp-witted.com/)
+Link. [click https://sharp-witted.com/](https://sharp-witted.com/)
 
 ![](https://github.com/SharpTH/Coding-Class/blob/main/app.png)
